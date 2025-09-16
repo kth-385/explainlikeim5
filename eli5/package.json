@@ -1,0 +1,8 @@
+{
+  "name": "explain-like-im-five",
+  "version": "1.0.0",
+  "description": "Website to simplify text for 5-year-olds",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1"
+  }
+}
